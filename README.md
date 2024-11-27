@@ -1,5 +1,5 @@
 ## Hi there I'm Jose Manuel 👋
-Un apasionado del mundo de la informática y desarrollador que reside en España. / A passionate computer enthusiast and web developer from Spain
+Un apasionado del mundo de la informática y desarrollador que reside en España.
 <!--
 **Solomon90s/Solomon90s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
