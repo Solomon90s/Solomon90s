@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋👋, Soy Jose Manuel</h1>
+<h1 align="center">Hola 👋👋, Soy Jose Manuel</h1>
 <h3 align="center">Un apasionado de la informática y desarrollador web residente en 🏠 España. </h3>
 
 - 📧 Puedes contactar conmigo: **jose.galdon12@gmail.com**
