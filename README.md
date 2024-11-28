@@ -5,7 +5,7 @@
 
 <h3 align="left">Conecta conmigo mediante linkedin:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/www.linkedin.com/in/lucas-peruchena-4a064652](https://es.linkedin.com/in/jos%C3%A9-manuel-hadjimi-1066102a2)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lucas-peruchena-4a064652" height="30" width="40" /></a>
+<a href="https://es.linkedin.com/in/jos%C3%A9-manuel-hadjimi-1066102a2?original_referer=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lucas-peruchena-4a064652" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes de programación:</h3>
