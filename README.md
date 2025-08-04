@@ -23,6 +23,9 @@ Aplicación SPA en la que mostramos el uso de los pipes en Angular 19.
 🌟 [Teslo Shop App](https://github.com/Solomon90s/teslo-shop-app)  
 Aplicación SPA donde usamos un backend creado con nestjs sobre la tienda de tesla.
 
+🌟 [Backend Teslo Shop App](https://github.com/Solomon90s/backend-teslo-shop)  
+Backend creado con NestJS sobre los productos de la tienda de tesla.
+
 ## 📈 Estadísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Solomon90s&show_icons=true&theme=tokyonight)
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Solomon90s&layout=compact)
