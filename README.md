@@ -24,8 +24,8 @@ Aplicación SPA en la que mostramos el uso de los pipes en Angular 19.
 Aplicación SPA donde usamos un backend creado con nestjs sobre la tienda de tesla.
 
 ## 📈 Estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Solomon90s&show_icons=true&theme=tokyonight)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Solomon90s&layout=compact)
 
 ## 💬 ¿Hablamos?
 📧 jose.galdon12@gmail.com
