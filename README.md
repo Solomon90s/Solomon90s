@@ -1,5 +1,5 @@
 
-# 👋 ¡Hola! Soy [Jose Manuel]
+# 👋 ¡Hola! Soy Jose Manuel
 
 Soy Frontend Developer especializado en ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) y ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white). Me gusta construir aplicaciones web escalables y con una experiencia de usuario impecable.
 
