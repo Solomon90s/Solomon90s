@@ -12,10 +12,10 @@ Soy Frontend Developer especializado en ![Angular](https://img.shields.io/badge/
 
 ## 📂 Proyectos destacados
 🌟 [Gifs App](https://github.com/Solomon90s/gifs-app-Angular-19)  
-Aplicación SPA que gestiona Gifs usando la api [restcountries](https://restcountries.com/).
+Aplicación SPA que gestiona Gifs usando la api [giphy](https://developers.giphy.com/).
 
 🌟 [Country App](https://github.com/Solomon90s/Country-App-Angular-19)  
-Aplicación SPA que permite buscar por: capital, paises y ciudad. Usando la api de [giphy](https://developers.giphy.com/).
+Aplicación SPA que permite buscar por: capital, paises y ciudad. Usando la api de [restcountries](https://restcountries.com/).
 
 🌟 [Pipes App](https://github.com/Solomon90s/pipes-app-Angular-19)  
 Aplicación SPA en la que mostramos el uso de los pipes en Angular 19.
