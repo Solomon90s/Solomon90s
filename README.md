@@ -6,7 +6,7 @@ Soy Frontend Developer especializado en ![Angular](https://img.shields.io/badge/
 
 ## 🚀 Tecnologías y herramientas
 - Angular • RxJS • TypeScript
-- SCSS • HTML • TailwindCSS • REST APIs
+- SCSS • HTML • TailwindCSS • Bootstrap • REST APIs
 - NestJS • MongoDB • MySQL
 - VS Code • Git • GitHub Actions • Postman • NVM • Docker
 
