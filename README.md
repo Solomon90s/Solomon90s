@@ -1,27 +1,33 @@
-<h1 align="center">Hola 👋👋, Soy Jose Manuel</h1>
-<h3 align="center">Un apasionado del 🌍 de la informática y desarrollador web 💻 residente en España.</h3>
 
-- 📧 Puedes contactar conmigo: **jose.galdon12@gmail.com**
+# 👋 ¡Hola! Soy [Jose Manuel]
 
-<h3 align="left">Conecta conmigo mediante linkedin:</h3>
-<p align="left">
-<a href="https://es.linkedin.com/in/jos%C3%A9-manuel-hadjimi-1066102a2?original_referer=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lucas-peruchena-4a064652" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Lenguajes de programación:</h3>
-<p align="left"></a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Frontend Development:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwindcss" width="40" height="40"/> </a> </p>
+Soy Frontend Developer especializado en ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) y ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white). Me gusta construir aplicaciones web escalables y con una experiencia de usuario impecable.
 
 
-<h3 align="left">Backend Development:</h3>
-<p align="left"> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## 🚀 Tecnologías y herramientas
+- Angular • RxJS • TypeScript
+- SCSS • HTML • TailwindCSS • REST APIs
+- NestJS • MongoDB • MySQL
+- VS Code • Git • GitHub Actions • Postman • NVM • Docker
 
+## 📂 Proyectos destacados
+🌟 [Gifs App](https://github.com/Solomon90s/gifs-app-Angular-19)  
+Aplicación SPA que gestiona Gifs usando la api [restcountries](https://restcountries.com/).
 
-<h3 align="left">Software and others:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://ohmyposh.dev/docs/installation/windows" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.eaMhZ0zeEJNpTZLdqvyuqAHaHa%26pid%3DApi&f=1&ipt=01852ae0c536166fe25612ec0e701a1e2fb9dfa9d340e7240718853c9cffba7d&ipo=images" alt="terminal-ohmyposh" width="40" height="40"/> </a> <a href="https://tableplus.com/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.jim-nielsen.com%2Fios%2F512%2Ftableplus-database-client-2023-02-16.png&f=1&nofb=1&ipt=1f1ecfbfd0bc5d1417be79fdc66dca1b8f56a6c57b7722e6fca597de7898cff9&ipo=images" alt="tableplus" width="40" height="40"/> </a> <a href="https://github.com/nvm-sh/nvm" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftriveacademy.com%2Fstatic%2F0ca5f05e12b631ead5a53aa3baedcf57%2F6d494%2Fnvm.png&f=1&nofb=1&ipt=c30ec9c34f53019b7b0703ec64bc56ea8507f160078cc2f76c0534a507ca13ca&ipo=images" alt="node version manager" width="40" height="40"/> </a>  </p>
+🌟 [Country App](https://github.com/Solomon90s/Country-App-Angular-19)  
+Aplicación SPA que permite buscar por: capital, paises y ciudad. Usando la api de [giphy](https://developers.giphy.com/).
 
+🌟 [Pipes App](https://github.com/Solomon90s/pipes-app-Angular-19)  
+Aplicación SPA en la que mostramos el uso de los pipes en Angular 19.
 
+🌟 [Teslo Shop App](https://github.com/Solomon90s/teslo-shop-app)  
+Aplicación SPA donde usamos un backend creado con nestjs sobre la tienda de tesla.
 
+## 📈 Estadísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact)
 
+## 💬 ¿Hablamos?
+📧 jose.galdon12@gmail.com
+
+🌐 [Linkedin](https://www.linkedin.com/authwall?trkInfo=AQFOv9UT8b0dzwAAAZh0RWZQmYjFj4jLdXh8Dk8hDg5Pm9lD1U1byEyEN9WP3Aoy078DOBvRkQ9iGHVRHz2FtNglfBSHFio2rNtTHgWFkc8Nzef-PKC0_T3V0rBQ9OBxAsg3Yyo=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjose-manuel-hadjimi-1066102a2%2F)
