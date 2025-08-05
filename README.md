@@ -20,6 +20,9 @@ Aplicación SPA que permite buscar por: capital, paises y ciudad. Usando la api 
 🌟 [Pipes App](https://github.com/Solomon90s/pipes-app-Angular-19)  
 Aplicación SPA en la que mostramos el uso de los pipes en Angular 19.
 
+🌟 [Forms App](https://github.com/Solomon90s/forms-reactive-Angular-19)  
+Aplicación SPA en la que mostramos formularios reactivos en Angular 19.
+
 🌟 [Teslo Shop App](https://github.com/Solomon90s/teslo-shop-app)  
 Aplicación SPA donde usamos un backend creado con nestjs sobre la tienda de tesla.
 
