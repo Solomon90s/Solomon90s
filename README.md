@@ -5,10 +5,16 @@ Soy Frontend Developer especializado en ![Angular](https://img.shields.io/badge/
 
 
 ## 🚀 Tecnologías y herramientas
-- Angular • RxJS • TypeScript
-- SCSS • HTML • TailwindCSS • Bootstrap • REST APIs
-- NestJS • MongoDB • MySQL
-- VS Code • Git • GitHub Actions • Postman • NVM • Docker
+### Lenguajes:
+[![Languages](https://skillicons.dev/icons?i=js,typescript,java)](https://skillicons.dev)
+### Estilos:
+[![Styles](https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind)](https://skillicons.dev)
+### Frameworks y librerías:
+[![Frameworks](https://skillicons.dev/icons?i=angular,rxjs)](https://skillicons.dev)
+### Backend y base de datos:
+[![Banckend and database](https://skillicons.dev/icons?i=nestjs,mongodb,mysql,postgres)](https://skillicons.dev)
+### Otras herramientas:
+[![Tools](https://skillicons.dev/icons?i=vscode,git,npm,postman,markdown,github,nodejs,docker,powershell,debian)](https://skillicons.dev)
 
 ## 📂 Proyectos destacados
 🌟 [Gifs App](https://github.com/Solomon90s/gifs-app-Angular-19)  
