@@ -36,8 +36,8 @@ Aplicación SPA donde usamos un backend creado con nestjs sobre la tienda de tes
 Backend creado con NestJS sobre los productos de la tienda de tesla.
 
 ## 📈 Estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Solomon90s&show_icons=true&theme=tokyonight)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Solomon90s&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solomon90s&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=solomon90s&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ## 💬 ¿Hablamos?
 📧 jose.galdon12@gmail.com
