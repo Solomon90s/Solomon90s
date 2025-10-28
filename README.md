@@ -29,6 +29,9 @@ Aplicación SPA en la que mostramos el uso de los pipes en Angular 19.
 🌟 [Forms App](https://github.com/Solomon90s/forms-reactive-Angular-19)  
 Aplicación SPA en la que mostramos formularios reactivos en Angular 19.
 
+🌟 [Maps App](https://github.com/Solomon90s/06.app-maps-Angular-v19.Repetido)  
+Aplicación SPA en la que mostramos el uso de mapas y marcadores. Usamos la API de [mapbox](https://www.mapbox.com/)  en Angular 19.
+
 🌟 [Teslo Shop App](https://github.com/Solomon90s/teslo-shop-app)  
 Aplicación SPA donde usamos un backend creado con nestjs sobre la tienda de tesla.
 
