@@ -38,6 +38,9 @@ Aplicación SPA donde usamos un backend creado con nestjs sobre la tienda de tes
 🌟 [Backend Teslo Shop App](https://github.com/Solomon90s/backend-teslo-shop)  
 Backend creado con NestJS sobre los productos de la tienda de tesla.
 
+🌟 [Methods Array App](https://github.com/Solomon90s/arraysMethods)  
+Aplicación con todos los métodos de array en javascript.
+
 ## 📈 Estadísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solomon90s&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=solomon90s&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
