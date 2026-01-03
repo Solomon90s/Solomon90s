@@ -42,7 +42,7 @@ Backend creado con NestJS sobre los productos de la tienda de tesla.
 Aplicación con todos los métodos de array en javascript.
 
 ## 📈 Estadísticas
-https://profile-summary-for-github.com/user/solomon90s
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/solomon90s?cardType=level&theme=github-dark&fontFamily=&preferLogin=false&Background=2C090900)](https://git.io/awesome-stats-card)
 
 
 ## 💬 ¿Hablamos?
