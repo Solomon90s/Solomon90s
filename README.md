@@ -44,7 +44,8 @@ Aplicación con todos los métodos de array en javascript.
 ## 📈 Estadísticas
 ![Resumen](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solomon90s&theme=tokyonight)
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=solomon90s&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Lenguajes](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=solomon90s &theme=tokyonight)
+
 
 ## 💬 ¿Hablamos?
 📧 jose.galdon12@gmail.com
